@@ -1,0 +1,6 @@
+D:\Test\CalculatorTest\Calculator\Calculator\bin\Debug\Calculator.exe.config
+D:\Test\CalculatorTest\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\Test\CalculatorTest\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\Test\CalculatorTest\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+D:\Test\CalculatorTest\Calculator\Calculator\obj\Debug\Calculator.exe
+D:\Test\CalculatorTest\Calculator\Calculator\obj\Debug\Calculator.pdb
